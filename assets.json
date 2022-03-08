@@ -1,9 +1,10 @@
 [
+    
     {
         "id": "",
         "symbol": "SLT",
         "name": "SafeWallet Token",
-        "image": "https://mobarok1.github.io/safewalletjson/images/logo",
+        "image": "https://mobarok1.github.io/safewalletjson/images/logo.png",
         "current_price": 0.0,
         "priceChange": 0.0,
         "price_change_percentage_24h": 0.0,
