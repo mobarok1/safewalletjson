@@ -1,0 +1,55 @@
+[
+    
+    {
+        "id": "",
+        "symbol": "MRCN",
+        "name": "Mobarok Coin",
+        "decimal":18,
+        "image": "https://mobarok1.github.io/safewalletjson/images/logo.png",
+        "current_price": 0.0,
+        "priceChange": 0.0,
+        "price_change_percentage_24h": 0.0,
+        "market_cap_rank": 0,
+        "balance": 0.0,
+        "bscContract": "0xc502B191Ef29B8e4903424648afe8F8E717649BB"
+    },
+    {
+        "id": "binancecoin",
+        "symbol": "bnb",
+        "name": "Smart chain (BNB)",
+        "decimal":18,
+        "image": "https://umbria.network/assets/images/icon/bsclogo.png",
+        "current_price": 0.0,
+        "priceChange": 0.0,
+        "price_change_percentage_24h": 0.0,
+        "market_cap_rank": 0,
+        "balance": 0.0,
+        "bscContract": ""
+    },
+    {
+        "id": "pancakeswap-token",
+        "symbol": "MCN",
+        "name": "Moba Coin",
+        "decimal":18,
+        "image": "https://assets.coingecko.com/coins/images/12632/large/pancakeswap-cake-logo_%281%29.png?1629359065",
+        "current_price": 0.0,
+        "priceChange": 0.0,
+        "price_change_percentage_24h": 0.0,
+        "market_cap_rank": 0,
+        "balance": 0.0,
+        "bscContract": "0xc7ff9e199c57C226249D092aa4B43D1f10C646E2"
+    },
+    {
+        "id": "bakerytoken",
+        "symbol": "USDC",
+        "name": "USDC",
+        "decimal":18,
+        "image": "https://assets.coingecko.com/coins/images/12588/large/bakerytoken_logo.jpg?1600940032",
+        "current_price": 0.0,
+        "priceChange": 0.0,
+        "price_change_percentage_24h": 0.0,
+        "market_cap_rank": 0,
+        "balance": 0.0,
+        "bscContract": "0x64544969ed7EBf5f083679233325356EbE738930"
+    }
+  ]
