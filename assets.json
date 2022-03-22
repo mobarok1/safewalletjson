@@ -27,6 +27,19 @@
         "bscContract": ""
     },
     {
+        "id": "binance-usd",
+        "symbol": "busd",
+        "name": "Binance USD",
+        "decimal":18,
+        "image": "https://assets.coingecko.com/coins/images/9576/large/BUSD.png?1568947766",
+        "current_price": 0.0,
+        "priceChange": 0.0,
+        "price_change_percentage_24h": 0.0,
+        "market_cap_rank": 0,
+        "balance": 0.0,
+        "bscContract": "0xe9e7cea3dedca5984780bafc599bd69add087d56"
+    },
+    {
         "id": "pancakeswap-token",
         "symbol": "cake",
         "name": "PancakeSwap",
